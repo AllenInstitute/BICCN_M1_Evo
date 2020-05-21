@@ -1,4 +1,4 @@
-Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse - MetaNeighbor analysis
+### Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse - MetaNeighbor analysis
 Maggie Crow & Stephan Fischer, May 21, 2020
 
 This directory contains R functions to reproduce the analyses shown in Figure 2h, Extended Data Figure 2 e-g, Extended Data Figure 3i-k, and Supplementary Table 9. Data will be made available through the NeMO portal. For now, notes on data parsing from internally distributed files can be found in the data_prep document.
