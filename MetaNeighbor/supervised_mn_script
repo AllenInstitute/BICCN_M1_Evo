@@ -1,0 +1,112 @@
+########## Within- and cross-species classification using HGNC and SynGO gene sets ###################
+
+library(SingleCellExperiment)
+library(Matrix)
+
+source("metaneighbor.R")
+sce_all=readRDS("hs_marm_ms_sce.rds")
+gs=readRDS("hgnc_syngo.rds")
+
+################ within mouse 
+
+spe_f=sce_all$study_id=="mouse"
+sce_ms=sce_all[,spe_f]
+
+rand3cv=sample(c(1:3),size=sum(spe_f),replace=T)
+sce_ms$study_id=rand3cv
+
+classes=unique(sce_ms$class_label)
+res=vector("list",length=length(classes))
+names(res)=classes
+
+for(i in seq_along(classes)){
+	sub_f=sce_ms$class_label==classes[i]
+	x=model.matrix(~(as.character(sce_ms$final_integrated_cluster[sub_f]))+0)
+	colnames(x)=names(table(sce_ms$final_integrated_cluster[sub_f]))
+	res[[i]]=call_my_metaneighbor(sce_ms[,sub_f],gs,x)
+}
+
+saveRDS(res,file="within_mouse_MN_cluster_level.rds")
+
+rm(sce_ms)
+
+################ within marmoset 
+
+spe_f=sce_all$study_id=="marmoset"
+sce_mar=sce_all[,spe_f]
+
+rand3cv=sample(c(1:3),size=sum(spe_f),replace=T)
+sce_mar$study_id=rand3cv
+
+classes=unique(sce_mar$class_label)
+res=vector("list",length=length(classes))
+names(res)=classes
+
+for(i in seq_along(classes)){
+	sub_f=sce_mar$class_label==classes[i]
+	x=model.matrix(~(as.character(sce_mar$final_integrated_cluster[sub_f]))+0)
+	colnames(x)=names(table(sce_mar$final_integrated_cluster[sub_f]))
+	res[[i]]=call_my_metaneighbor(sce_mar[,sub_f],gs,x)
+}
+
+saveRDS(res,file="within_marmoset_MN_cluster_level.rds")
+
+rm(sce_mar)
+
+################ within human 
+
+spe_f=sce_all$study_id=="human"
+sce_hs=sce_all[,spe_f]
+
+rand3cv=sample(c(1:3),size=sum(spe_f),replace=T)
+sce_hs$study_id=rand3cv
+
+classes=unique(sce_hs$class_label)
+res=vector("list",length=length(classes))
+names(res)=classes
+
+for(i in seq_along(classes)){
+	sub_f=sce_hs$class_label==classes[i]
+	x=model.matrix(~(as.character(sce_hs$final_integrated_cluster[sub_f]))+0)
+	colnames(x)=names(table(sce_hs$final_integrated_cluster[sub_f]))
+	res[[i]]=call_my_metaneighbor(sce_hs[,sub_f],gs,x)
+}
+
+saveRDS(res,file="within_human_MN_cluster_level.rds")
+
+rm(sce_hs)
+
+################ learn mouse from primates
+
+spe_f=sce_all$study_id!="mouse"
+sce_all$study_original=sce_all$study_id
+sce_all$study_id[spe_f]="primate"
+classes=unique(sce_all$class_label)
+res=vector("list",length=length(classes))
+
+for(i in seq_along(classes)){
+	sub_f=sce_all$class_label==classes[i]
+	x=model.matrix(~(as.character(sce_all$final_integrated_cluster[sub_f]))+0)
+	colnames(x)=names(table(sce_all$final_integrated_cluster[sub_f]))
+	res[[i]]=call_my_metaneighbor(sce_all[,sub_f],gs,x)
+}
+
+save(res,file="learnms_MN_cluster_level.Rdata")
+
+################ cross primate 
+
+spe_f=sce_all$study_id!="mouse"
+sce_all=sce_all[,spe_f]
+sce_all$study_id=sce_all$study_original
+classes=unique(sce_all$class_label)
+res=vector("list",length=length(classes))
+names(res)=classes
+
+for(i in seq_along(classes)){
+	sub_f=sce_all$class_label==classes[i]
+	x=model.matrix(~(as.character(sce_all$final_integrated_cluster[sub_f]))+0)
+	colnames(x)=names(table(sce_all$final_integrated_cluster[sub_f]))
+	res[[i]]=call_my_metaneighbor(sce_all[,sub_f],gs,x)
+}
+
+save(res,file="crossprimate_MN_cluster_level.Rdata")

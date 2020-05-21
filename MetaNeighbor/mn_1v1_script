@@ -1,0 +1,28 @@
+########## Within- and cross-species classification with highly variable genes ###################
+
+library(SingleCellExperiment)
+library(Matrix)
+
+source("1v1_analysis.R")
+sce_all=readRDS("hs_marm_ms_sce.rds")
+classes=unique(sce_all$class_label)
+
+vgs=vector("list",length=length(classes))
+names(vgs)=names(classes)
+
+for(i in seq_along(classes)){
+	f=sce_all$class_label==classes[i]
+	vgs[[i]]=get_variable_genes(sce_all[,f])
+}
+
+mn_1v1_clust=vector("list",length=length(classes))
+mn_1v1_subclass=vector("list",length=length(classes))
+
+for(i in seq_along(classes)){
+  f=sce_all$class_label==classes[i]
+  mn_1v1_clust[[i]]=compute_best_hits(sce_all[vgs[[i]],f],sce_all$final_integrated_cluster[f],one_vs_one=TRUE)
+  mn_1v1_subclass[[i]]=compute_best_hits(sce_all[vgs[[i]],f],sce_all$subclass_label[f],one_vs_one=TRUE)
+}
+
+saveRDS(mn_1v1_subclass,file="mn_1v1_subclass_level.Rdata")
+saveRDS(mn_1v1_clust,file="mn_1v1_cluster_level.Rdata")
