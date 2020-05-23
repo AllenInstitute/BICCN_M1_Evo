@@ -145,3 +145,67 @@ leafboxplot <- function(d){
   leaf.info$celltype <- gsub("_.*", "", leaf.info$celltype)
   return(leaf.info)
 }
+
+# Calculate leaf statistics under specific nodes - adapted from speciesTree (https://github.com/huqiwen0313/speciesTree)
+leavesSubtree <- function(d, heightflag=TRUE){
+  d <- assign_values_to_nodes(d, "label", seq(1, nnodes(d), 1))
+  
+  # get upperlevel annot nodes information
+  upperLevelnodes <- getUpperLevelNode(d, cutoff=0.65)
+  nodesLoc <- get_nodes_xy(d)
+  labels <- get_nodes_attr(d, "label")
+  nodes.info <- cbind(nodesLoc, labels)
+  
+  # extract upperlevel nodes info
+  nodes.info <- merge(nodes.info, data.frame(upperLevelnodes$xy, upperLevelnodes$upperlabel), by=c(1, 2))
+  colnames(nodes.info) <- c("x", "y", "labels", "cellannot")
+  
+  # get all pathes from root to leave nodes
+  subtrees <- partition_leaves(d)
+  leafNodes <- subtrees[[1]]
+  pathRoutes <- function(leafnodes) {
+    which(sapply(subtrees, function(x) leafnodes %in% x))
+  }
+  paths <- lapply(leafNodes, pathRoutes)
+  
+  # caculate number of leaves below a subtree
+  nleaves.below.subtree <- lapply(1:nrow(nodes.info), function(n){
+    node <- nodes.info[n, ]$labels
+    nleafnodes <- length(which(unlist(lapply(paths, function(r){length(which(r==node))})) > 0))
+    return(data.frame(celltype=nodes.info[n, ]$cellannot, nleaves=nleafnodes))
+  })
+  nleaves.below.subtree <- dplyr::bind_rows(nleaves.below.subtree)
+  
+  # caculate the depth of each leave below a subtree
+  if(heightflag){
+    root_height <- attr(d, "height")
+    labels <- get_nodes_attr(d, "label")
+    heights <- get_nodes_attr(d, "height_original")
+    leaf.info <- data.frame(label=labels, height=heights)
+    leaf.info[is.na(leaf.info)] <- 0
+    
+    dleaves.below.subtree <- lapply(1:nrow(nodes.info), function(n){
+      node <- nodes.info[n, ]$labels
+      nodePaths <- paths[which(unlist(lapply(paths, function(r){length(which(r==node))})) > 0)]
+      dplyr::bind_rows(lapply(nodePaths, function(r){
+        loc <- length(r)
+        leafID <- r[loc]
+        height <- round((root_height - leaf.info[leaf.info$label == leafID, ]$height), 2)
+        data.frame(celltype=nodes.info[n, ]$cellannot, leaveID=r[loc], depth=height)
+      }))
+    })
+  } else{
+    dleaves.below.subtree <- lapply(1:nrow(nodes.info), function(n){
+      node <- nodes.info[n, ]$labels
+      nodePaths <- paths[which(unlist(lapply(paths, function(r){length(which(r==node))})) > 0)]
+      dplyr::bind_rows(lapply(nodePaths, function(r){
+        loc <- length(r)
+        data.frame(celltype=nodes.info[n, ]$cellannot, leaveID=r[loc], depth=names(r[loc]))
+      }))
+    })
+  }
+  
+  dleaves.below.subtree <- dplyr::bind_rows(dleaves.below.subtree)
+  
+  return(list(nleaves=nleaves.below.subtree, leaveDepth=dleaves.below.subtree))
+}
