@@ -1,6 +1,8 @@
 # Build integrated tree
-# This script is used to get robust homologous clusters across species based on tree method
 # Qiwen Hu - 2020
+# This script is used to get robust homologous clusters across species based on tree method
+# The result is used to generate the homologous clusters in figure 2e, extended figure 2c, 3e, 4c, 
+#  and generate tree plots for figure 2f, extended figure 2a, extended figure 3f,g  
 
 library(conos)
 library(pagoda2)
@@ -9,28 +11,7 @@ library(clues)
 library(parallel)
 library(Seurat)
 library(ggplot2)
-
-buildTree <- function(d, cell_clusters, upperlevelinfo, stability=TRUE){
-  dendr <- hclust(as.dist(d), method='ward.D2')
-  dend <- as.dendrogram(dendr)
-  dendr <- TransferDend(dend, renameCluster=TRUE, cls.groups = cell_clusters)
-  cls.groups <- dendr$new.groups
-  dend <- dendr$dendrogram
-  leafcontent <- dendr$leafcontent
-  
-  # raise tree
-  dend <- raise.dendrogram(dend, 0.15)
-  dend <- AddTreeAttribute(dend, species, leafcontent)
-  dend <- dendSetWidthBysize(dend, scale=8)
-  dend <- UpperLevelInfo(dend, cellannot=upperlevelinfo, leafcontent, propCutoff = 0.1)
-  upperLevelnodes <- getUpperLevelNode(dend, cutoff=0.65)
-  
-  #normalize tree
-  dend <- NormTree(dend, upperLevelnodes, upperlevelinfo, species)
-  dend <- dendSetColorByNormMixing(dend)
-  
-  return(list(dend=dend, upperlevelannot=upperLevelnodes))
-}
+source("tree.method.R")
 
 ############################
 # building inhibitory tree
@@ -125,7 +106,7 @@ subsampledClusters <- lapply(files, function(f){readRDS(f)})
 subsampled.dend <- subSampleTree(t(expression.matrix), subsample.groups=subsampledClusters)
 stability.measurements <- TreeStabilityDend(exc.dend$dend, cell_clusters, subsampled.dend, n.cores=10)
 exc.dend$dend <- stability.measurements$dendrogram
-saveRDS(inh.dend, "exc.tree.obj.rds")
+saveRDS(exc.dend, "exc.tree.obj.rds")
 
 #prune tree
 dend <- TreeEntropy(exc.dend$dend, entropy.cutoff=2.75)
