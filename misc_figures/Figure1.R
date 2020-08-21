@@ -76,7 +76,7 @@ for (species1 in species) {
 
 
 
-# Calc human layer distrib
+#### Figure 1c. Calc human layer distrib ####
 cl.anno <- unique(anno.l[["human"]][, c("cluster_id", "cluster_label")])
 cl.anno <- cl.anno[order(cl.anno$cluster_id), ]
 
