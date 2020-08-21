@@ -1,0 +1,2101 @@
+nleaves	celltype	comp
+3	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+1	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+4	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+6	L2/3 IT	human.marmo
+3	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+2	L2/3 IT	human.marmo
+5	L2/3 IT	human.marmo
+2	L5 ET	human.marmo
+2	L5 ET	human.marmo
+3	L5 ET	human.marmo
+0	L5 ET	human.marmo
+0	L5 ET	human.marmo
+-1	L5 ET	human.marmo
+4	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+3	L5 ET	human.marmo
+1	L5 ET	human.marmo
+0	L5 ET	human.marmo
+1	L5 ET	human.marmo
+4	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+5	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+4	L5 ET	human.marmo
+3	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+3	L5 ET	human.marmo
+1	L5 ET	human.marmo
+3	L5 ET	human.marmo
+0	L5 ET	human.marmo
+0	L5 ET	human.marmo
+0	L5 ET	human.marmo
+3	L5 ET	human.marmo
+2	L5 ET	human.marmo
+3	L5 ET	human.marmo
+1	L5 ET	human.marmo
+0	L5 ET	human.marmo
+3	L5 ET	human.marmo
+2	L5 ET	human.marmo
+3	L5 ET	human.marmo
+1	L5 ET	human.marmo
+3	L5 ET	human.marmo
+3	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+2	L5 ET	human.marmo
+0	L5 ET	human.marmo
+0	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+0	L5 ET	human.marmo
+2	L5 ET	human.marmo
+2	L5 ET	human.marmo
+2	L5 ET	human.marmo
+0	L5 ET	human.marmo
+3	L5 ET	human.marmo
+0	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+3	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+0	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+-1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+1	L5 ET	human.marmo
+-1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+0	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+0	L5 ET	human.marmo
+0	L5 ET	human.marmo
+2	L5 ET	human.marmo
+2	L5 ET	human.marmo
+1	L5 ET	human.marmo
+0	L5 ET	human.marmo
+4	L5 ET	human.marmo
+0	L5 ET	human.marmo
+1	L5 ET	human.marmo
+2	L5 ET	human.marmo
+-1	L5 ET	human.marmo
+4	L5 ET	human.marmo
+0	L5 ET	human.marmo
+3	L5 ET	human.marmo
+3	L5 ET	human.marmo
+13	L5 IT	human.marmo
+10	L5 IT	human.marmo
+18	L5 IT	human.marmo
+23	L5 IT	human.marmo
+10	L5 IT	human.marmo
+16	L5 IT	human.marmo
+20	L5 IT	human.marmo
+13	L5 IT	human.marmo
+11	L5 IT	human.marmo
+15	L5 IT	human.marmo
+13	L5 IT	human.marmo
+20	L5 IT	human.marmo
+13	L5 IT	human.marmo
+18	L5 IT	human.marmo
+19	L5 IT	human.marmo
+15	L5 IT	human.marmo
+22	L5 IT	human.marmo
+13	L5 IT	human.marmo
+19	L5 IT	human.marmo
+17	L5 IT	human.marmo
+23	L5 IT	human.marmo
+19	L5 IT	human.marmo
+16	L5 IT	human.marmo
+13	L5 IT	human.marmo
+19	L5 IT	human.marmo
+12	L5 IT	human.marmo
+17	L5 IT	human.marmo
+14	L5 IT	human.marmo
+14	L5 IT	human.marmo
+18	L5 IT	human.marmo
+9	L5 IT	human.marmo
+10	L5 IT	human.marmo
+14	L5 IT	human.marmo
+14	L5 IT	human.marmo
+6	L5 IT	human.marmo
+8	L5 IT	human.marmo
+9	L5 IT	human.marmo
+13	L5 IT	human.marmo
+14	L5 IT	human.marmo
+15	L5 IT	human.marmo
+16	L5 IT	human.marmo
+14	L5 IT	human.marmo
+18	L5 IT	human.marmo
+9	L5 IT	human.marmo
+12	L5 IT	human.marmo
+14	L5 IT	human.marmo
+16	L5 IT	human.marmo
+16	L5 IT	human.marmo
+19	L5 IT	human.marmo
+6	L5 IT	human.marmo
+17	L5 IT	human.marmo
+12	L5 IT	human.marmo
+19	L5 IT	human.marmo
+20	L5 IT	human.marmo
+11	L5 IT	human.marmo
+9	L5 IT	human.marmo
+11	L5 IT	human.marmo
+14	L5 IT	human.marmo
+15	L5 IT	human.marmo
+20	L5 IT	human.marmo
+18	L5 IT	human.marmo
+14	L5 IT	human.marmo
+8	L5 IT	human.marmo
+15	L5 IT	human.marmo
+12	L5 IT	human.marmo
+16	L5 IT	human.marmo
+14	L5 IT	human.marmo
+15	L5 IT	human.marmo
+19	L5 IT	human.marmo
+21	L5 IT	human.marmo
+10	L5 IT	human.marmo
+32	L5 IT	human.marmo
+19	L5 IT	human.marmo
+19	L5 IT	human.marmo
+14	L5 IT	human.marmo
+13	L5 IT	human.marmo
+12	L5 IT	human.marmo
+16	L5 IT	human.marmo
+15	L5 IT	human.marmo
+10	L5 IT	human.marmo
+9	L5 IT	human.marmo
+11	L5 IT	human.marmo
+17	L5 IT	human.marmo
+17	L5 IT	human.marmo
+18	L5 IT	human.marmo
+15	L5 IT	human.marmo
+14	L5 IT	human.marmo
+15	L5 IT	human.marmo
+10	L5 IT	human.marmo
+14	L5 IT	human.marmo
+8	L5 IT	human.marmo
+9	L5 IT	human.marmo
+9	L5 IT	human.marmo
+13	L5 IT	human.marmo
+9	L5 IT	human.marmo
+17	L5 IT	human.marmo
+12	L5 IT	human.marmo
+20	L5 IT	human.marmo
+4	L5 IT	human.marmo
+12	L5 IT	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+5	L5/6 NP	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 CT	human.marmo
+2	L6 CT	human.marmo
+3	L6 IT	human.marmo
+5	L6 IT	human.marmo
+7	L6 IT	human.marmo
+7	L6 IT	human.marmo
+5	L6 IT	human.marmo
+9	L6 IT	human.marmo
+5	L6 IT	human.marmo
+5	L6 IT	human.marmo
+4	L6 IT	human.marmo
+10	L6 IT	human.marmo
+3	L6 IT	human.marmo
+9	L6 IT	human.marmo
+9	L6 IT	human.marmo
+8	L6 IT	human.marmo
+10	L6 IT	human.marmo
+10	L6 IT	human.marmo
+10	L6 IT	human.marmo
+9	L6 IT	human.marmo
+8	L6 IT	human.marmo
+7	L6 IT	human.marmo
+8	L6 IT	human.marmo
+8	L6 IT	human.marmo
+7	L6 IT	human.marmo
+6	L6 IT	human.marmo
+7	L6 IT	human.marmo
+8	L6 IT	human.marmo
+8	L6 IT	human.marmo
+4	L6 IT	human.marmo
+9	L6 IT	human.marmo
+9	L6 IT	human.marmo
+5	L6 IT	human.marmo
+5	L6 IT	human.marmo
+11	L6 IT	human.marmo
+5	L6 IT	human.marmo
+10	L6 IT	human.marmo
+8	L6 IT	human.marmo
+8	L6 IT	human.marmo
+10	L6 IT	human.marmo
+5	L6 IT	human.marmo
+12	L6 IT	human.marmo
+6	L6 IT	human.marmo
+9	L6 IT	human.marmo
+5	L6 IT	human.marmo
+6	L6 IT	human.marmo
+5	L6 IT	human.marmo
+7	L6 IT	human.marmo
+6	L6 IT	human.marmo
+9	L6 IT	human.marmo
+5	L6 IT	human.marmo
+9	L6 IT	human.marmo
+8	L6 IT	human.marmo
+10	L6 IT	human.marmo
+9	L6 IT	human.marmo
+5	L6 IT	human.marmo
+9	L6 IT	human.marmo
+7	L6 IT	human.marmo
+10	L6 IT	human.marmo
+6	L6 IT	human.marmo
+7	L6 IT	human.marmo
+5	L6 IT	human.marmo
+11	L6 IT	human.marmo
+7	L6 IT	human.marmo
+7	L6 IT	human.marmo
+7	L6 IT	human.marmo
+6	L6 IT	human.marmo
+9	L6 IT	human.marmo
+4	L6 IT	human.marmo
+8	L6 IT	human.marmo
+9	L6 IT	human.marmo
+8	L6 IT	human.marmo
+6	L6 IT	human.marmo
+6	L6 IT	human.marmo
+5	L6 IT	human.marmo
+10	L6 IT	human.marmo
+8	L6 IT	human.marmo
+7	L6 IT	human.marmo
+9	L6 IT	human.marmo
+4	L6 IT	human.marmo
+8	L6 IT	human.marmo
+8	L6 IT	human.marmo
+7	L6 IT	human.marmo
+8	L6 IT	human.marmo
+8	L6 IT	human.marmo
+6	L6 IT	human.marmo
+7	L6 IT	human.marmo
+4	L6 IT	human.marmo
+5	L6 IT	human.marmo
+5	L6 IT	human.marmo
+6	L6 IT	human.marmo
+11	L6 IT	human.marmo
+5	L6 IT	human.marmo
+9	L6 IT	human.marmo
+8	L6 IT	human.marmo
+10	L6 IT	human.marmo
+8	L6 IT	human.marmo
+9	L6 IT	human.marmo
+9	L6 IT	human.marmo
+6	L6 IT	human.marmo
+6	L6 IT	human.marmo
+10	L6 IT	human.marmo
+3	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+0	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+0	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+3	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+3	L6b	human.marmo
+5	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+1	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+1	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+5	L6b	human.marmo
+1	L6b	human.marmo
+4	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+1	L6b	human.marmo
+4	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+5	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+1	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+3	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+2	L6b	human.marmo
+3	L6b	human.marmo
+2	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+1	L6b	human.marmo
+2	L6b	human.marmo
+5	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+4	L6b	human.marmo
+4	L6b	human.marmo
+1	L6b	human.marmo
+3	L6b	human.marmo
+0	L6b	human.marmo
+1	L6b	human.marmo
+2	L6b	human.marmo
+0	L6b	human.marmo
+2	L6b	human.marmo
+4	L6b	human.marmo
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+6	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+4	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+5	L2/3 IT	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+3	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+0	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+2	L5 ET	human.mouse
+2	L5 ET	human.mouse
+1	L5 ET	human.mouse
+1	L5 ET	human.mouse
+0	L5 ET	human.mouse
+3	L5 ET	human.mouse
+7	L5 IT	human.mouse
+8	L5 IT	human.mouse
+7	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+6	L5 IT	human.mouse
+6	L5 IT	human.mouse
+7	L5 IT	human.mouse
+6	L5 IT	human.mouse
+7	L5 IT	human.mouse
+4	L5 IT	human.mouse
+4	L5 IT	human.mouse
+6	L5 IT	human.mouse
+4	L5 IT	human.mouse
+6	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+8	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+5	L5 IT	human.mouse
+5	L5 IT	human.mouse
+7	L5 IT	human.mouse
+9	L5 IT	human.mouse
+7	L5 IT	human.mouse
+7	L5 IT	human.mouse
+5	L5 IT	human.mouse
+8	L5 IT	human.mouse
+4	L5 IT	human.mouse
+5	L5 IT	human.mouse
+7	L5 IT	human.mouse
+6	L5 IT	human.mouse
+8	L5 IT	human.mouse
+6	L5 IT	human.mouse
+7	L5 IT	human.mouse
+5	L5 IT	human.mouse
+7	L5 IT	human.mouse
+5	L5 IT	human.mouse
+3	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+5	L5 IT	human.mouse
+7	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+3	L5 IT	human.mouse
+7	L5 IT	human.mouse
+7	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+4	L5 IT	human.mouse
+4	L5 IT	human.mouse
+3	L5 IT	human.mouse
+4	L5 IT	human.mouse
+8	L5 IT	human.mouse
+9	L5 IT	human.mouse
+4	L5 IT	human.mouse
+9	L5 IT	human.mouse
+7	L5 IT	human.mouse
+8	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+4	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+3	L5 IT	human.mouse
+5	L5 IT	human.mouse
+4	L5 IT	human.mouse
+6	L5 IT	human.mouse
+4	L5 IT	human.mouse
+7	L5 IT	human.mouse
+4	L5 IT	human.mouse
+5	L5 IT	human.mouse
+2	L5 IT	human.mouse
+5	L5 IT	human.mouse
+7	L5 IT	human.mouse
+6	L5 IT	human.mouse
+7	L5 IT	human.mouse
+4	L5 IT	human.mouse
+10	L5 IT	human.mouse
+9	L5 IT	human.mouse
+5	L5 IT	human.mouse
+8	L5 IT	human.mouse
+6	L5 IT	human.mouse
+8	L5 IT	human.mouse
+3	L5 IT	human.mouse
+8	L5 IT	human.mouse
+6	L5 IT	human.mouse
+5	L5 IT	human.mouse
+6	L5 IT	human.mouse
+3	L5 IT	human.mouse
+8	L5 IT	human.mouse
+7	L5 IT	human.mouse
+3	L5 IT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+4	L6 CT	human.mouse
+2	L6 CT	human.mouse
+1	L6 CT	human.mouse
+3	L6 CT	human.mouse
+1	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+1	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+2	L6 CT	human.mouse
+3	L6 CT	human.mouse
+3	L6 CT	human.mouse
+2	L6 CT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+10	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+6	L6 IT	human.mouse
+5	L6 IT	human.mouse
+7	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+6	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+6	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+9	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+5	L6 IT	human.mouse
+9	L6 IT	human.mouse
+9	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+6	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+8	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+7	L6 IT	human.mouse
+6	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+8	L6 IT	human.mouse
+9	L6 IT	human.mouse
+6	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+7	L6 IT	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+3	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+0	L6b	human.mouse
+0	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+3	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+0	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+0	L6b	human.mouse
+0	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+0	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+3	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+0	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+3	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+0	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+0	L6b	human.mouse
+2	L6b	human.mouse
+2	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+1	L6b	human.mouse
+2	L6b	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+0	L5/6 NP	human.mouse
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+5	L2/3 IT	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+0	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+3	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+3	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+3	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+3	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+0	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+0	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+1	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+2	L5 ET	mouse.marmoset
+3	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+0	L5 IT	mouse.marmoset
+12	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+10	L5 IT	mouse.marmoset
+17	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+13	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+0	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+13	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+11	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+-1	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+14	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+0	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+9	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+4	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+10	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+13	L5 IT	mouse.marmoset
+3	L5 IT	mouse.marmoset
+2	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+-1	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+5	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+1	L5 IT	mouse.marmoset
+6	L5 IT	mouse.marmoset
+7	L5 IT	mouse.marmoset
+8	L5 IT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+3	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 CT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+2	L6 IT	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L5/6 NP	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
+0	L6b	mouse.marmoset
