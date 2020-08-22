@@ -34,26 +34,16 @@ order_rows <- function(m1) {
 }
 
 
-anno.dir <- "anno_files/"  # Nemo bdbag
-fig.dir <- "output/Figure1/"
-dir.create(fig.dir, showWarnings = FALSE)
+fig.dir <- "misc_figures/output/Figure1/"
+dir.create(fig.dir, recursive = TRUE, showWarnings = FALSE)
 
 
 species <- c("human", "marmoset", "mouse")
-anno.fn.l <- list("Human/anno.feather", 
-                  "Marmoset/anno.feather", 
-                  "Mouse_Broad_10xV3/anno.feather",
-                  "Human_SMARTer/anno.feather")
-names(anno.fn.l) <- c(species, "human_ss")
 
-anno.l <- list()
-for (species1 in names(anno.fn.l)) {
-  anno.fn <- paste0(anno.dir, anno.fn.l[[species1]])
-  anno <- read_feather(anno.fn)
-  anno$species <- species1
-  anno.l[[species1]] <- anno
-}
+anno.l <- readRDS("misc_figures/data/species.anno.rds")
 
+
+#### Figure 1c-e. Plot dendrograms ####
 for (species1 in species) {
   dend.fn <- paste0("misc_figures/data/", species1, "/", species1, "_dend.RData")
   dend <- readRDS(dend.fn)
@@ -68,7 +58,7 @@ for (species1 in species) {
   dend <- dend %>% set("labels_col", use.color[labels(dend)])
   dend <- dend %>% set("leaves_col", use.color[labels(dend)])
   
-  pdf(file = paste0(dend.fn, ".pdf"), width = 16, height = 5)
+  pdf(file = paste0(fig.dir, species1, "_dend.pdf"), width = 16, height = 5)
   par(mar = c(10, 2, 2, 2))
   plot(dend, main = species1)
   dev.off()

@@ -4,6 +4,9 @@ library(ggplot2)
 library(RColorBrewer)
 
 
+fig.dir <- "misc_figures/output/Figure2/"
+dir.create(fig.dir, recursive = TRUE, showWarnings = FALSE)
+
 
 #### Figure 2h. Bar plot stats ####
 for (class1 in c("inh", "exc")) {
@@ -36,7 +39,7 @@ for (class1 in c("inh", "exc")) {
   anno.stats2 <- anno.stats * nrow(anno.stats)
   anno.stats2[anno.stats2 > 1] <- 1
   anno.stats2[anno.stats2 < -1] <- -1
-  write.csv(anno.stats2, paste0("output/Figure2_", class1, "_leaves_stats.csv"))
+  write.csv(anno.stats2, paste0(fig.dir, "Figure2_", class1, "_leaves_stats.csv"))
   
 }
 
@@ -83,7 +86,7 @@ g.scatter <- ggplot(mn.l, aes(x = within_species_meanROC, y = ROC)) +
   theme(panel.grid.major = element_blank(), 
         panel.grid.minor = element_blank())
 plot(g.scatter)
-ggsave(g.scatter, filename = "output/Figure2/inh_species_AUROC.pdf", 
+ggsave(g.scatter, filename = paste0(fig.dir, "inh_species_AUROC.pdf"), 
        width = 10, height = 3)
 
 

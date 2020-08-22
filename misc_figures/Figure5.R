@@ -1,4 +1,8 @@
+
 library(ggplot2)
+
+fig.dir <- "misc_figures/output/Figure5/"
+dir.create(fig.dir, recursive = TRUE, showWarnings = FALSE)
 
 
 #### Figure 5d. Plot M1/MTG cell type layer distributions ####
@@ -33,4 +37,4 @@ g.layer <- ggplot(cl.df, aes(x = m1.mean, y = mtg.mean)) +
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 plot(g.layer)
 
-ggsave(g.layer, filename = "output/Figure5/mtg_m1_exc_layer_scatter.pdf", width = 5, height = 5)
+ggsave(g.layer, filename = paste0(fig.dir, "mtg_m1_exc_layer_scatter.pdf"), width = 5, height = 5)
