@@ -3,14 +3,14 @@
 library(SingleCellExperiment)
 library(Matrix)
 
-hs=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Human/human_corrected_UMI_data.RDS")
-mar=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Marmoset/marmoset_corrected_UMI_data.RDS")
+hs=readRDS("human_corrected_UMI_data.RDS")
+mar=readRDS("marmoset_corrected_UMI_data.RDS")
 
-gs=read.csv("~/biccn_nhp/data/ortholog_table_20191122.csv",header=T,stringsAsFactors=F)
+gs=read.csv("ortholog_table_20191122.csv",header=T,stringsAsFactors=F)
 
-p1=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Human/human_annotation_file.RDS")
-p2=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Marmoset/marmoset_annotation_file.RDS")
-p3=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Mouse/mouse_annotation_file.RDS")
+p1=readRDS("human_annotation_file.RDS")
+p2=readRDS("marmoset_annotation_file.RDS")
+p3=readRDS("mouse_annotation_file.RDS")
 
 p1$study_id="human"
 p2$study_id="marmoset"
@@ -42,7 +42,7 @@ saveRDS(sce_pri,file="hs_mar_sce.rds")
 
 #### add mouse 
 
-ms=readRDS("/data/mcrow/biccn_nhp/20191214_download/Final_for_viewer/Mouse/mouse_corrected_UMI_data.RDS")
+ms=readRDS("mouse_corrected_UMI_data.RDS")
 m<-match(as.character(rownames(ms)),as.character(gs$mouse_symbol))
 f.a=!is.na(m)
 f.b=m[f.a]
@@ -62,7 +62,7 @@ saveRDS(sce_all,file="20191214_hs_marm_ms_sce.rds")
 
 ###### Subset to final annotated cells
 
-p1=read.csv("/data/mcrow/biccn_nhp/20200211_download/annotation_file.csv",stringsAsFactors=F)
+p1=read.csv("annotation_file.csv",stringsAsFactors=F)
 
 sce_all$sample_id_append=paste(sce_all$study_id, sce_all$sample_id,sep="_")
 
