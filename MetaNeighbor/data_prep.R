@@ -78,6 +78,6 @@ sce_all=sce_all[,f.a]
 f=sce_all$final_integrated_cluster!="exclude"
 sce_all=sce_all[,f]
 
-save(sce_all,file="20200212_hs_marm_ms_sce.Rdata")  ### 62159 cells, split evenly across human, marmoset and mouse
+saveRDS(sce_all,file="hs_marm_ms_sce.rds")  ### 62159 cells, split evenly across human, marmoset and mouse
 
 
