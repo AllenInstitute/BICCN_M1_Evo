@@ -3,12 +3,12 @@
 library(SingleCellExperiment)
 library(Matrix)
 
-hs=readRDS("human_corrected_UMI_data.RDS")
+hs=readRDS("human_corrected_UMI_data.RDS")  ### load expression data 
 mar=readRDS("marmoset_corrected_UMI_data.RDS")
 
-gs=read.csv("ortholog_table_20191122.csv",header=T,stringsAsFactors=F)
+gs=read.csv("ortholog_table_20191122.csv",header=T,stringsAsFactors=F)  ### read in ortholog mapping table 
 
-p1=readRDS("human_annotation_file.RDS")
+p1=readRDS("human_annotation_file.RDS")      ### load sample annotations
 p2=readRDS("marmoset_annotation_file.RDS")
 p3=readRDS("mouse_annotation_file.RDS")
 
@@ -16,11 +16,13 @@ p1$study_id="human"
 p2$study_id="marmoset"
 p3$study_id="mouse"
 
-m<-match(as.character(rownames(mar)),as.character(gs$marmoset_symbol))
+m<-match(as.character(rownames(mar)),as.character(gs$marmoset_symbol))  ### match gene IDs from expression data to those in the ortholog table
 f.a=!is.na(m)
 f.b=m[f.a]
 mar=mar[f.a,]
-rownames(mar)=gs[f.b,"human_symbol"]  ## 16K genes
+rownames(mar)=gs[f.b,"human_symbol"]  ## convert to human IDs (16K genes)
+
+#### Create combined human-marmoset SingleCellExperiment object 
 
 m<-match(as.character(rownames(hs)),as.character(rownames(mar)))
 f.a=!is.na(m)
@@ -33,14 +35,14 @@ rownames(dat)=x
 p_pri=rbind(p1,p2)
 rownames(p_pri)=colnames(dat)
 
-sce_pri=SingleCellExperiment(assays=list(counts=dat),colData=p_pri)
+sce_pri=SingleCellExperiment(assays=list(counts=dat),colData=p_pri)  
 
 rm(hs,mar,dat,p_pri)
 gc()
 
 saveRDS(sce_pri,file="hs_mar_sce.rds")
 
-#### add mouse 
+#### Add mouse expression data and annotations
 
 ms=readRDS("mouse_corrected_UMI_data.RDS")
 m<-match(as.character(rownames(ms)),as.character(gs$mouse_symbol))
@@ -60,7 +62,7 @@ gc()
 
 saveRDS(sce_all,file="20191214_hs_marm_ms_sce.rds")
 
-###### Subset to final annotated cells
+###### Subset to cells included after downsampling
 
 p1=read.csv("annotation_file.csv",stringsAsFactors=F)
 
