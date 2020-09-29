@@ -60,8 +60,6 @@ sce_all=SingleCellExperiment(assays=list(counts=cbind(counts(sce_pri[f.a,]),ms[f
 rm(sce_pri,ms,p1,p2,p3)
 gc()
 
-saveRDS(sce_all,file="20191214_hs_marm_ms_sce.rds")
-
 ###### Subset to cells included after downsampling
 
 p1=read.csv("annotation_file.csv",stringsAsFactors=F)
